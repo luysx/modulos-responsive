@@ -10,7 +10,7 @@ Modulos para crear
 ##Header Logo
 
 
-  Modelo 1
+  ###Modelo 1
   --------
   
   Unicamente Logotipo, centrado y con un ancho máximo. 
